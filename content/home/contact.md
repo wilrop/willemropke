@@ -24,15 +24,6 @@ content:
     postcode: '1050'
     country: Belgium
     country_code: BE
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: Twitter
-      link: 'https://twitter.com/willem_ropke'
-    - icon: github
-      icon_pack: fab
-      name: Github
-      link: 'https://github.com/wilrop'
 
 design:
   columns: '2'
