@@ -28,7 +28,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: Twitter
-      link: 'https://twitter.com/willem_ropke
+      link: 'https://twitter.com/willem_ropke'
     - icon: github
       icon_pack: fab
       name: Github
