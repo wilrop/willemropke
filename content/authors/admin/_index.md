@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'to:willem.ropke@vub.be'
+    link: 'mailto:willem.ropke@vub.be'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/willem_ropke
