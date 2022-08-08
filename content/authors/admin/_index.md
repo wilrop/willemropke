@@ -14,7 +14,7 @@ organizations:
     url: https://ai.vub.ac.be/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Willem Röpke is a PhD researcher at the Artificial Intelligence Lab at the Vrije Universiteit Brussel under the supervision of Ann Nowé.
+bio: Willem Röpke is a PhD researcher at the Artificial Intelligence Lab at the Vrije Universiteit Brussel under the supervision of Roxana Rădulescu, Diederik M. Roijers and Ann Nowé.
 
 # Interests to show in About widget
 interests:
@@ -64,4 +64,4 @@ email: 'willem.ropke@vub.be'
 highlight_name: true
 ---
 
-Willem Röpke is a PhD researcher at the Artificial Intelligence Lab at the Vrije Universiteit Brussel under the supervision of Ann Nowé. His research combines insights from game theory and reinforcement learning to tackle multi-objective games. In such games, multiple agents interact with each other while attempting to find optimal trade-offs for their different objectives.
+Willem Röpke is a PhD researcher at the Artificial Intelligence Lab at the Vrije Universiteit Brussel under the supervision of Roxana Rădulescu, Diederik M. Roijers and Ann Nowé.. His research combines insights from game theory and reinforcement learning to tackle multi-objective games. In such games, multiple agents interact with each other while attempting to find optimal trade-offs for their different objectives.
