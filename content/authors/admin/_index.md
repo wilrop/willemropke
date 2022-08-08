@@ -64,4 +64,4 @@ email: 'willem.ropke@vub.be'
 highlight_name: true
 ---
 
-Willem Röpke is a PhD researcher at the Artificial Intelligence Lab at the Vrije Universiteit Brussel under the supervision of Roxana Rădulescu, Diederik M. Roijers and Ann Nowé.. His research combines insights from game theory and reinforcement learning to tackle multi-objective games. In such games, multiple agents interact with each other while attempting to find optimal trade-offs for their different objectives.
+Willem Röpke is a PhD researcher at the Artificial Intelligence Lab at the Vrije Universiteit Brussel under the supervision of Roxana Rădulescu, Diederik M. Roijers and Ann Nowé. His research combines insights from game theory and reinforcement learning to tackle multi-objective games. In such games, multiple agents interact with each other while attempting to find optimal trade-offs for their different objectives.
