@@ -64,4 +64,4 @@ email: 'willem.ropke@vub.be'
 highlight_name: true
 ---
 
-I'm a PhD researcher at the Artificial Intelligence Lab at the Vrije Universiteit Brussel under the supervision of Roxana Rădulescu, Diederik M. Roijers and Ann Nowé. My research combines insights from game theory and reinforcement learning to tackle multi-objective games. In such games, multiple agents interact with each other while attempting to find optimal trade-offs for their different objectives.
+I'm a PhD researcher at the Artificial Intelligence Lab at the Vrije Universiteit Brussel under the supervision of Roxana Rădulescu, Diederik M. Roijers and Ann Nowé. My research combines insights from game theory and reinforcement learning to tackle complex decision-making scenarios. The overarching goal of my research is to develop a comprehensive understanding of multi-objective games and design computational techniques that can effectively compute or learn equilibria.
