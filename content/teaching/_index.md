@@ -13,10 +13,11 @@ header:
   caption: ''
   image: ''
 ---
-### Machine Learning (2021-2022)
+### Machine Learning (2021-present)
 **Teaching Assistant**
+I am a teaching assistant for the machine learning course targeted at final-year bachelor and first-year master students. In this role, I am responsible for creating engaging exercise sessions and providing guidance and support to students during these sessions.
 
-Covered topics include
+Some of the covered topics include:
 - *Neural networks*
 - *Clustering*
 - *Reinforcement learning*

@@ -1,17 +1,17 @@
 ---
-title: On Nash Equilibria in Multi-Objective Games
+title: Taking Multi-Objective Games to the Next Level
 
 event: Invited Talk
 
-location: Universiteit Leiden, The Netherlands
+location: University of Galway, Ireland
 
-summary: An introductory talk on Nash equilibria in multi-objective games.
-abstract: 'In this talk, I introduce the emerging field of multi-objective games. I discuss existence and computation of Nash equilibria in these games and provide intuitions for recent results.'
+summary: An overview of multi-objective games intended to provide intuitions and insights into recent results.
+abstract: 'Multi-objective games are an active area of research with many potential applications. In this talk, we will consider these games starting from the basics and relate them to other well-known models in game theory. Special attention will be paid to the solution concept of Nash equilibria as well. The overarching aim is to provide you with an intuition for these games and when and how to use them.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-31T14:00:00Z'
-date_end: '2022-05-31T15:00:00Z'
+date: '2022-11-21T13:00:00Z'
+date_end: '2022-11-21T14:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
